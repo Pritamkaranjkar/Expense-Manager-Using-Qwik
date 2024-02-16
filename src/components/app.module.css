@@ -1,0 +1,111 @@
+
+
+
+
+
+div {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+/* Style for the <button> element */
+button {
+    background-color: #0074d9;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Style for the <h1> element */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Style for labels and form elements */
+label, select, input {
+    display: block;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Style for the select element */
+select {
+    width: 100%;
+    padding: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Style for table headers */
+th {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Style for table cells */
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Style for the "Total Spend" and "Remaining Income" sections */
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Style for the "Add Expense" button */
+.button-dark {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button-dark:hover {
+    background-color: #0056b3;
+}
+
+/* Style for the <span> elements */
+span {
+    font-weight: bold;
+    color: #0074d9;
+}
+
+/* Style for the form input fields */
+input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style for the <br> element */
+br {
+    margin-top: 10px;
+}
